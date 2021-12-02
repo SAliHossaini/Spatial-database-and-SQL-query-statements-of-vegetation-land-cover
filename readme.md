@@ -7,7 +7,7 @@
       Date: May 1st, 2021
 ================================================================================
 
-05/01/21   Ali Hossaini, GEOG 5577, Spring 2021
+05/01/21   Ali Hossaini, GEOG 5577, University of Minnesota, Spring 2021
 
 
 Project Description:
